@@ -14,5 +14,7 @@ El programa, desarrollado en Java, incluye:
 Como caso de estudio se utiliza la función \(f(x)=e^x\), comparando las aproximaciones numéricas con la derivada exacta para evaluar el desempeño de cada método. El proyecto combina fundamentos teóricos de la derivación numérica con su aplicación computacional en problemas científicos e ingenieriles.
 
 Bettsy Liliana Garces Buritica - 20231020222
+
 Miguel Ángel Castañeda Monsalve - 20231020210
+
 Stevenes Camilo Llanos Acero Cod - 20231020221
